@@ -6,8 +6,8 @@ import subprocess
 repos_filename = os.getenv("REPOS_FILENAME", "avantio-devops-test")
 users_map_filename = os.getenv("USERS_MAP_FILENAME", "users_map.json")
 template_filename = os.getenv("TEMPLATE_FILENAME", "settings.template.ts")
-github_pat = os.getenv("GITHUB_PAT", "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")  # GitHub Personal Access Token
-gitlab_pat = os.getenv("GITLAB_PAT", "glpat-4TQCfCRLYgN8P251za3z")  # GitLab Personal Access Token
+github_pat = os.getenv("GITHUB_PAT", "")  # GitHub Personal Access Token
+gitlab_pat = os.getenv("GITLAB_PAT", "")  # GitLab Personal Access Token
 
 # Function to mirror the GitLab repo to GitHub
 def mirror_repo(gitlab_url, github_url, repo_name):
