@@ -34,6 +34,7 @@ interface IssueImport {
   body: string;
   closed: boolean;
   assignee?: string;
+  reviewer?: string;
   created_at?: string;
   updated_at?: string;
   milestone?: number;
@@ -315,7 +316,7 @@ export class GithubHelper {
       author &&
       ((settings.usermap &&
         settings.usermap[author.username as string] ===
-          settings.github.token_owner) ||
+        settings.github.token_owner) ||
         author.username === settings.github.token_owner)
     );
   }
@@ -353,7 +354,7 @@ export class GithubHelper {
       body: bodyConverted,
     };
 
-    props.assignees = this.convertAssignees(issue);
+    // props.assignees = this.convertAssignees(issue);
     props.milestone = this.convertMilestone(issue);
     props.labels = this.convertLabels(issue);
 
@@ -380,6 +381,21 @@ export class GithubHelper {
       }
     }
     return assignees;
+  }
+
+  convertReviewers(item: GitLabMergeRequest): string[] {
+    if (!item.reviewers) return [];
+    let reviewers: string[] = [];
+    for (let reviewer of item.reviewers) {
+      let username: string = reviewer.username as string;
+      this.users.add(username);
+      if (username === settings.github.username) {
+        reviewers.push(settings.github.username);
+      } else if (settings.usermap && settings.usermap[username]) {
+        reviewers.push(settings.usermap[username]);
+      }
+    }
+    return reviewers;
   }
 
   /**
@@ -443,10 +459,10 @@ export class GithubHelper {
     let bodyConverted = issue.isPlaceholder
       ? issue.description ?? ''
       : await this.convertIssuesAndComments(
-          issue.description ?? '',
-          issue,
-          !this.userIsCreator(issue.author) || !issue.description
-        );
+        issue.description ?? '',
+        issue,
+        !this.userIsCreator(issue.author) || !issue.description
+      );
 
     let props: IssueImport = {
       title: issue.title ? issue.title.trim() : '',
@@ -457,7 +473,7 @@ export class GithubHelper {
     };
 
     let assignees = this.convertAssignees(issue);
-    props.assignee = assignees.length == 1 ? assignees[0] : undefined;
+    // props.assignee = assignees.length == 1 ? assignees[0] : undefined;
     props.milestone = this.convertMilestone(issue);
     props.labels = this.convertLabels(issue);
 
@@ -492,12 +508,12 @@ export class GithubHelper {
           `Importing ${assignees.length} assignees for GitHub issue #${issue_number}`
         );
       }
-      this.githubApi.issues.addAssignees({
-        owner: this.githubOwner,
-        repo: this.githubRepo,
-        issue_number: issue_number,
-        assignees: assignees,
-      });
+      // this.githubApi.issues.addAssignees({
+      //   owner: this.githubOwner,
+      //   repo: this.githubRepo,
+      //   issue_number: issue_number,
+      //   assignees: assignees,
+      // });
     }
   }
 
@@ -527,7 +543,7 @@ export class GithubHelper {
       let userIsPoster =
         (settings.usermap &&
           settings.usermap[note.author.username] ===
-            settings.github.token_owner) ||
+          settings.github.token_owner) ||
         note.author.username === settings.github.token_owner;
 
       comments.push({
@@ -543,8 +559,7 @@ export class GithubHelper {
     }
 
     console.log(
-      `\t...Done creating comments (migrated ${nrOfMigratedNotes} comments, skipped ${
-        notes.length - nrOfMigratedNotes
+      `\t...Done creating comments (migrated ${nrOfMigratedNotes} comments, skipped ${notes.length - nrOfMigratedNotes
       } comments)`
     );
     return comments;
@@ -628,8 +643,7 @@ export class GithubHelper {
     }
 
     console.log(
-      `\t...Done creating issue comments (migrated ${nrOfMigratedNotes} comments, skipped ${
-        notes.length - nrOfMigratedNotes
+      `\t...Done creating issue comments (migrated ${nrOfMigratedNotes} comments, skipped ${notes.length - nrOfMigratedNotes
       } comments)`
     );
   }
@@ -740,13 +754,13 @@ export class GithubHelper {
     );
 
     let githubMilestone: RestEndpointMethodTypes['issues']['createMilestone']['parameters'] =
-      {
-        owner: this.githubOwner,
-        repo: this.githubRepo,
-        title: milestone.title,
-        description: bodyConverted,
-        state: milestone.state === 'active' ? 'open' : 'closed',
-      };
+    {
+      owner: this.githubOwner,
+      repo: this.githubRepo,
+      title: milestone.title,
+      description: bodyConverted,
+      state: milestone.state === 'active' ? 'open' : 'closed',
+    };
 
     if (milestone.due_date) {
       githubMilestone.due_on = milestone.due_date + 'T00:00:00Z';
@@ -785,6 +799,33 @@ export class GithubHelper {
     return await this.githubApi.issues.createLabel(githubLabel);
   }
 
+
+
+  // ----------------------------------------------------------------------------
+
+
+  /**
+   * Request reviewers for a pull request
+    * @param pullRequestNumber the GitHub pull request number
+    * @param mergeRequest the GitLab pull request object
+    * @returns {Promise<Github.Response<Github.IssuesUpdateResponse>>}
+    */
+
+  async requestReviewers(
+    pullRequestNumber: number,
+    mergeRequest: GitLabMergeRequest
+  ) {
+    let props: RestEndpointMethodTypes['pulls']['requestReviewers']['parameters'] = {
+      owner: this.githubOwner,
+      repo: this.githubRepo,
+      pull_number: pullRequestNumber,
+    };
+
+    props.reviewers = this.convertReviewers(mergeRequest);
+
+    return await this.githubApi.pulls.requestReviewers(props);
+  }
+
   // ----------------------------------------------------------------------------
 
   /**
@@ -795,7 +836,6 @@ export class GithubHelper {
     mergeRequest: GitLabMergeRequest
   ): Promise<void> {
     let pullRequestData = await this.createPullRequest(mergeRequest);
-
     // createPullRequest() returns an issue number if a PR could not be created and
     // an issue was created instead, and settings.useIssueImportAPI is true. In that
     // case comments were already added and the state is already properly set
@@ -813,6 +853,7 @@ export class GithubHelper {
 
       // Make sure to close the GitHub pull request if it is closed or merged in GitLab
       await this.updatePullRequestState(pullRequest, mergeRequest);
+
     }
   }
 
@@ -901,6 +942,7 @@ export class GithubHelper {
       try {
         // try to create the GitHub pull request from the GitLab issue
         const response = await this.githubApi.pulls.create(props);
+        await this.requestReviewers(response.data.number, mergeRequest);
         return Promise.resolve(response);
       } catch (err) {
         if (err.status === 422) {
@@ -934,7 +976,7 @@ export class GithubHelper {
       let props: IssueImport = {
         title: mergeRequest.title.trim() + ' - [' + mergeRequest.state + ']',
         body: bodyConverted,
-        assignee: assignees.length > 0 ? assignees[0] : undefined,
+        // assignee: assignees.length > 0 ? assignees[0] : undefined,
         created_at: mergeRequest.created_at,
         updated_at: mergeRequest.updated_at,
         closed:
@@ -961,7 +1003,7 @@ export class GithubHelper {
       let props = {
         owner: this.githubOwner,
         repo: this.githubRepo,
-        assignees: this.convertAssignees(mergeRequest),
+        assignees: undefined,
         title: mergeRequest.title.trim() + ' - [' + mergeRequest.state + ']',
         body: bodyConverted,
       };
@@ -1016,8 +1058,7 @@ export class GithubHelper {
     }
 
     console.log(
-      `\t...Done creating pull request comments (migrated ${nrOfMigratedNotes} pull request comments, skipped ${
-        notes.length - nrOfMigratedNotes
+      `\t...Done creating pull request comments (migrated ${nrOfMigratedNotes} pull request comments, skipped ${notes.length - nrOfMigratedNotes
       } pull request comments)`
     );
   }
@@ -1041,7 +1082,7 @@ export class GithubHelper {
       issue_number: pullRequest.number,
     };
 
-    props.assignees = this.convertAssignees(mergeRequest);
+    // props.assignees = this.convertAssignees(mergeRequest);
     props.milestone = this.convertMilestone(mergeRequest);
     props.labels = this.convertLabels(mergeRequest);
 
@@ -1163,14 +1204,6 @@ export class GithubHelper {
     if (add_line) str = GithubHelper.addMigrationLine(str, item, repoLink);
     let reString = '';
 
-    // Store usernames found in the text
-    const matches: Array<string> = str.match(usernameRegex);
-    if (matches && matches.length > 0) {
-      for (const username of matches) {
-        this.users.add(username.substring(1));
-      }
-    }
-
     //
     // User name conversion
     //
@@ -1181,6 +1214,14 @@ export class GithubHelper {
         new RegExp(reString, 'g'),
         match => '@' + settings.usermap[match.substring(1)]
       );
+    }
+
+    // Store usernames found in the text
+    const matches: Array<string> = str.match(usernameRegex);
+    if (matches && matches.length > 0) {
+      for (const username of matches) {
+        this.users.add(username.substring(1));
+      }
     }
 
     //
@@ -1226,9 +1267,8 @@ export class GithubHelper {
         }
       }
       if (milestone) {
-        const repoLink = `${this.githubUrl}/${this.githubOwner}/${
-          repo || this.githubRepo
-        }`;
+        const repoLink = `${this.githubUrl}/${this.githubOwner}/${repo || this.githubRepo
+          }`;
         return `[${milestone.title}](${repoLink}/milestone/${milestone.number})`;
       }
       console.log(
@@ -1277,7 +1317,7 @@ export class GithubHelper {
     // These regexes will capture ~this as a label. If it is among the migrated
     // labels, then it will be linked.
 
-    let labelReplacer = (label: string) => {};
+    let labelReplacer = (label: string) => { };
 
     // // Single word named label
     // if (hasProjectmap) {
@@ -1338,7 +1378,7 @@ export class GithubHelper {
       dateformatOptions
     );
 
-    const attribution = `In GitLab by @${item.author.username} on ${formattedDate}`;
+    const attribution = `In GitLab by ${item.author.username} on ${formattedDate}`;
     const lineRef =
       item && item.position
         ? GithubHelper.createLineRef(item.position, repoLink)

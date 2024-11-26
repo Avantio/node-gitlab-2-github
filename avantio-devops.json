@@ -1,0 +1,82 @@
+{
+    "repos": [
+        {
+            "id": 2146,
+            "repoName": "vrms-deployment-scripts",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/vrms-deployment-scripts",
+            "githubUrl": "https://github.com/Avantio/vrms-deployment-scripts"
+        },
+        {
+            "id": 2093,
+            "repoName": "vrms-config",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/vrms-config",
+            "githubUrl": "https://github.com/Avantio/vrms-config"
+        },
+        {
+            "id": 2044,
+            "repoName": "secure-ingresses-chart",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/secure-ingresses-chart",
+            "githubUrl": "https://github.com/Avantio/secure-ingresses-chart"
+        },
+        {
+            "id": 1843,
+            "repoName": "fluentd-kubernetes-daemonset-papertrail",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/fluentd-kubernetes-daemonset-papertrail",
+            "githubUrl": "https://github.com/Avantio/fluentd-kubernetes-daemonset-papertrail"
+        },
+        {
+            "id": 1830,
+            "repoName": "image-node-upgrade",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/image-node-upgrade",
+            "githubUrl": "https://github.com/Avantio/image-node-upgrade"
+        },
+        {
+            "id": 1799,
+            "repoName": "ecr-scan-image",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/ecr-scan-image",
+            "githubUrl": "https://github.com/Avantio/ecr-scan-image"
+        },
+        {
+            "id": 1749,
+            "repoName": "dockerfiles",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/dockerfiles",
+            "githubUrl": "https://github.com/Avantio/dockerfiles"
+        },
+        {
+            "id": 1615,
+            "repoName": "gitlab-file-inspector",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/gitlab-file-inspector",
+            "githubUrl": "https://github.com/Avantio/gitlab-file-inspector"
+        },
+        {
+            "id": 1562,
+            "repoName": "helmfiles",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/helmfiles",
+            "githubUrl": "https://github.com/Avantio/helmfiles"
+        },
+        {
+            "id": 663,
+            "repoName": "jenkins-shared-lib",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/jenkins-shared-lib",
+            "githubUrl": "https://github.com/Avantio/jenkins-shared-lib"
+        },
+        {
+            "id": 628,
+            "repoName": "avantio-backend-chart",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/avantio-backend-chart",
+            "githubUrl": "https://github.com/Avantio/avantio-backend-chart"
+        },
+        {
+            "id": 525,
+            "repoName": "terraform-aws",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/terraform-aws",
+            "githubUrl": "https://github.com/Avantio/terraform-aws"
+        },
+        {
+            "id": 524,
+            "repoName": "k8s-manifests",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/k8s-manifests",
+            "githubUrl": "https://github.com/Avantio/k8s-manifests"
+        }
+    ]
+}

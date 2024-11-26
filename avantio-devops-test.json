@@ -1,0 +1,10 @@
+{
+    "repos": [
+        {
+            "id": 525,
+            "repoName": "terraform-aws",
+            "gitlabUrl": "https://gitlab.avantio.com/avantio-devops/terraform-aws",
+            "githubUrl": "https://github.com/Avantio/terraform-aws"
+        }
+    ]
+}

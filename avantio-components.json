@@ -1,0 +1,172 @@
+{
+  "repos": [
+    {
+      "id": 1909,
+      "repoName": "vrms-settlements-lib",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/vrms-settlements-lib",
+      "githubUrl": "https://github.com/Avantio/vrms-settlements-lib"
+    },
+    {
+      "id": 1479,
+      "repoName": "vrms-lib",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/vrms-lib",
+      "githubUrl": "https://github.com/Avantio/vrms-lib"
+    },
+    {
+      "id": 417,
+      "repoName": "comTourismTaxes",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comTourismTaxes",
+      "githubUrl": "https://github.com/Avantio/comTourismTaxes"
+    },
+    {
+      "id": 225,
+      "repoName": "paymentsConnector",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/paymentsConnector",
+      "githubUrl": "https://github.com/Avantio/paymentsConnector"
+    },
+    {
+      "id": 174,
+      "repoName": "comNotifications",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comNotifications",
+      "githubUrl": "https://github.com/Avantio/comNotifications"
+    },
+    {
+      "id": 172,
+      "repoName": "pdfEngines",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/pdfEngines",
+      "githubUrl": "https://github.com/Avantio/pdfEngines"
+    },
+    {
+      "id": 170,
+      "repoName": "pdfChrome",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/pdfChrome",
+      "githubUrl": "https://github.com/Avantio/pdfChrome"
+    },
+    {
+      "id": 153,
+      "repoName": "comPayments",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comPayments",
+      "githubUrl": "https://github.com/Avantio/comPayments"
+    },
+    {
+      "id": 152,
+      "repoName": "comActiveCampaign",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comActiveCampaign",
+      "githubUrl": "https://github.com/Avantio/comActiveCampaign"
+    },
+    {
+      "id": 151,
+      "repoName": "comConnectivityConversion",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comConnectivityConversion",
+      "githubUrl": "https://github.com/Avantio/comConnectivityConversion"
+    },
+    {
+      "id": 145,
+      "repoName": "comLockup",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comLockup",
+      "githubUrl": "https://github.com/Avantio/comLockup"
+    },
+    {
+      "id": 135,
+      "repoName": "comAccountingRegistry",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comAccountingRegistry",
+      "githubUrl": "https://github.com/Avantio/comAccountingRegistry"
+    },
+    {
+      "id": 96,
+      "repoName": "lib",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/lib",
+      "githubUrl": "https://github.com/Avantio/lib"
+    },
+    {
+      "id": 95,
+      "repoName": "itsolutions",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/itsolutions",
+      "githubUrl": "https://github.com/Avantio/itsolutions"
+    },
+    {
+      "id": 94,
+      "repoName": "comwebservice",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comwebservice",
+      "githubUrl": "https://github.com/Avantio/comwebservice"
+    },
+    {
+      "id": 93,
+      "repoName": "comsyspay",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comsyspay",
+      "githubUrl": "https://github.com/Avantio/comsyspay"
+    },
+    {
+      "id": 92,
+      "repoName": "comsincro",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comsincro",
+      "githubUrl": "https://github.com/Avantio/comsincro"
+    },
+    {
+      "id": 91,
+      "repoName": "compolicymanager",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/compolicymanager",
+      "githubUrl": "https://github.com/Avantio/compolicymanager"
+    },
+    {
+      "id": 90,
+      "repoName": "compcibooking",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/compcibooking",
+      "githubUrl": "https://github.com/Avantio/compcibooking"
+    },
+    {
+      "id": 89,
+      "repoName": "comonlines",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comonlines",
+      "githubUrl": "https://github.com/Avantio/comonlines"
+    },
+    {
+      "id": 88,
+      "repoName": "comonlinebk",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comonlinebk",
+      "githubUrl": "https://github.com/Avantio/comonlinebk"
+    },
+    {
+      "id": 87,
+      "repoName": "comnotificador",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comnotificador",
+      "githubUrl": "https://github.com/Avantio/comnotificador"
+    },
+    {
+      "id": 86,
+      "repoName": "cominmobiliaria",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/cominmobiliaria",
+      "githubUrl": "https://github.com/Avantio/cominmobiliaria"
+    },
+    {
+      "id": 85,
+      "repoName": "comexportador",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comexportador",
+      "githubUrl": "https://github.com/Avantio/comexportador"
+    },
+    {
+      "id": 84,
+      "repoName": "comenviomail5",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comenviomail5",
+      "githubUrl": "https://github.com/Avantio/comenviomail5"
+    },
+    {
+      "id": 83,
+      "repoName": "comeliza",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comeliza",
+      "githubUrl": "https://github.com/Avantio/comeliza"
+    },
+    {
+      "id": 82,
+      "repoName": "comeasytour",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comeasytour",
+      "githubUrl": "https://github.com/Avantio/comeasytour"
+    },
+    {
+      "id": 81,
+      "repoName": "comdatoscrs",
+      "gitlabUrl": "https://gitlab.avantio.com/avantio-components/comdatoscrs",
+      "githubUrl": "https://github.com/Avantio/comdatoscrs"
+    }
+  ]
+}
