@@ -1,11 +1,10 @@
 #!/bin/bash
 
 # Check if the input file is provided
-if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <path_to_json_file>"
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <path_to_json_file> <github_token>"
     exit 1
 fi
-
 JSON_FILE=$1
 GITHUB_TOKEN=$2
 ORG_NAME="Avantio"
