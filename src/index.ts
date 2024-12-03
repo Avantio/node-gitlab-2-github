@@ -563,7 +563,7 @@ async function transferMergeRequests() {
     // Try to find a GitHub pull request that already exists for this GitLab
     // merge request
     let githubRequest = githubPullRequests.find(
-      i => i.title.trim() === mr.title.trim()
+      i =>i .title.trim() === mr.title.trim()
     );
     let githubIssue = githubIssues.find(
       // allow for issues titled "Original Issue Name - [merged|closed]"

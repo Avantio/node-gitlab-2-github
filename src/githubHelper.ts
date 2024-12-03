@@ -853,7 +853,6 @@ export class GithubHelper {
 
       // Make sure to close the GitHub pull request if it is closed or merged in GitLab
       await this.updatePullRequestState(pullRequest, mergeRequest);
-
     }
   }
 
