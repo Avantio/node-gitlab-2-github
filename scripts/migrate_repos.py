@@ -8,6 +8,7 @@ users_map_filename = os.getenv("USERS_MAP_FILENAME", "users_map.json")
 template_filename = os.getenv("TEMPLATE_FILENAME", "settings.template.ts")
 github_pat = os.getenv("GITHUB_PAT", "")  # GitHub Personal Access Token
 gitlab_pat = os.getenv("GITLAB_PAT", "")  # GitLab Personal Access Token
+mirror_repos = os.getenv("MIRROR_REPOS", "true")  # Whether to mirror the repos to GitHub
 
 # Function to mirror the GitLab repo to GitHub
 def mirror_repo(gitlab_url, github_url, repo_name):
@@ -74,7 +75,8 @@ for repo in repos_data['repos']:
     github_url = repo['githubUrl']
     
     # Mirror the GitLab repository to GitHub
-    mirror_repo(gitlab_url, github_url, repo_name)
+    if (mirror_repos == "true"):
+        mirror_repo(gitlab_url, github_url, repo_name)
     
     # Replace values in the template
     settings_content = template_content.replace('projectId: 0,', f'projectId: {repo_id},')

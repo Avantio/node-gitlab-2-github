@@ -4,1495 +4,1495 @@
             "id": 2154,
             "repoName": "performance-dashboard-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/performance-dashboard-api",
-            "githubUrl": "https://github.com/performance-dashboard-api"
+            "githubUrl": "https://github.com/Avantio/performance-dashboard-api"
         },
         {
             "id": 2148,
             "repoName": "connectivity-e2e",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/connectivity-e2e",
-            "githubUrl": "https://github.com/connectivity-e2e"
+            "githubUrl": "https://github.com/Avantio/connectivity-e2e"
         },
         {
             "id": 2141,
             "repoName": "import-services",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/import-services",
-            "githubUrl": "https://github.com/import-services"
+            "githubUrl": "https://github.com/Avantio/import-services"
         },
         {
             "id": 2140,
             "repoName": "airbnb-client-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-client-api",
-            "githubUrl": "https://github.com/airbnb-client-api"
+            "githubUrl": "https://github.com/Avantio/airbnb-client-api"
         },
         {
             "id": 2137,
             "repoName": "html-to-pdf",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/html-to-pdf",
-            "githubUrl": "https://github.com/html-to-pdf"
+            "githubUrl": "https://github.com/Avantio/html-to-pdf"
         },
         {
             "id": 2128,
             "repoName": "accounting-journal-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/accounting-journal-api",
-            "githubUrl": "https://github.com/accounting-journal-api"
+            "githubUrl": "https://github.com/Avantio/accounting-journal-api"
         },
         {
             "id": 2120,
             "repoName": "vrms-endpoint-caller",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms-endpoint-caller",
-            "githubUrl": "https://github.com/vrms-endpoint-caller"
+            "githubUrl": "https://github.com/Avantio/vrms-endpoint-caller"
         },
         {
             "id": 2115,
             "repoName": "inbox-cli",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/inbox-cli",
-            "githubUrl": "https://github.com/inbox-cli"
+            "githubUrl": "https://github.com/Avantio/inbox-cli"
         },
         {
             "id": 2077,
             "repoName": "bookings-importer-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bookings-importer-api",
-            "githubUrl": "https://github.com/bookings-importer-api"
+            "githubUrl": "https://github.com/Avantio/bookings-importer-api"
         },
         {
             "id": 2052,
             "repoName": "infobip-billing-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/infobip-billing-api",
-            "githubUrl": "https://github.com/infobip-billing-api"
+            "githubUrl": "https://github.com/Avantio/infobip-billing-api"
         },
         {
             "id": 2051,
             "repoName": "infobip-billing-front",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/infobip-billing-front",
-            "githubUrl": "https://github.com/infobip-billing-front"
+            "githubUrl": "https://github.com/Avantio/infobip-billing-front"
         },
         {
             "id": 2042,
             "repoName": "pulse",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pulse",
-            "githubUrl": "https://github.com/pulse"
+            "githubUrl": "https://github.com/Avantio/pulse"
         },
         {
             "id": 2002,
             "repoName": "push-notifications-admin",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/push-notifications-admin",
-            "githubUrl": "https://github.com/push-notifications-admin"
+            "githubUrl": "https://github.com/Avantio/push-notifications-admin"
         },
         {
             "id": 1981,
             "repoName": "bookings-importer-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bookings-importer-engine",
-            "githubUrl": "https://github.com/bookings-importer-engine"
+            "githubUrl": "https://github.com/Avantio/bookings-importer-engine"
         },
         {
             "id": 1977,
             "repoName": "cookies-info",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/cookies-info",
-            "githubUrl": "https://github.com/cookies-info"
+            "githubUrl": "https://github.com/Avantio/cookies-info"
         },
         {
             "id": 1976,
             "repoName": "webhook-tester",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/webhook-tester",
-            "githubUrl": "https://github.com/webhook-tester"
+            "githubUrl": "https://github.com/Avantio/webhook-tester"
         },
         {
             "id": 1974,
             "repoName": "back-checkout",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/back-checkout",
-            "githubUrl": "https://github.com/back-checkout"
+            "githubUrl": "https://github.com/Avantio/back-checkout"
         },
         {
             "id": 1973,
             "repoName": "custom-language-switcher-wp",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/custom-language-switcher-wp",
-            "githubUrl": "https://github.com/custom-language-switcher-wp"
+            "githubUrl": "https://github.com/Avantio/custom-language-switcher-wp"
         },
         {
             "id": 1965,
             "repoName": "push-notifications-services",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/push-notifications-services",
-            "githubUrl": "https://github.com/push-notifications-services"
+            "githubUrl": "https://github.com/Avantio/push-notifications-services"
         },
         {
             "id": 1935,
             "repoName": "webpush",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/webpush",
-            "githubUrl": "https://github.com/webpush"
+            "githubUrl": "https://github.com/Avantio/webpush"
         },
         {
             "id": 1930,
             "repoName": "pms-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pms-api",
-            "githubUrl": "https://github.com/pms-api"
+            "githubUrl": "https://github.com/Avantio/pms-api"
         },
         {
             "id": 1910,
             "repoName": "settlements-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/settlements-consumer",
-            "githubUrl": "https://github.com/settlements-consumer"
+            "githubUrl": "https://github.com/Avantio/settlements-consumer"
         },
         {
             "id": 1908,
             "repoName": "settlements-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/settlements-api",
-            "githubUrl": "https://github.com/settlements-api"
+            "githubUrl": "https://github.com/Avantio/settlements-api"
         },
         {
             "id": 1903,
             "repoName": "cache-management",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/cache-management",
-            "githubUrl": "https://github.com/cache-management"
+            "githubUrl": "https://github.com/Avantio/cache-management"
         },
         {
             "id": 1899,
             "repoName": "connectivity-toolkit",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/connectivity-toolkit",
-            "githubUrl": "https://github.com/connectivity-toolkit"
+            "githubUrl": "https://github.com/Avantio/connectivity-toolkit"
         },
         {
             "id": 1898,
             "repoName": "bcom-workflow",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bcom-workflow",
-            "githubUrl": "https://github.com/bcom-workflow"
+            "githubUrl": "https://github.com/Avantio/bcom-workflow"
         },
         {
             "id": 1845,
             "repoName": "gore",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/gore",
-            "githubUrl": "https://github.com/gore"
+            "githubUrl": "https://github.com/Avantio/gore"
         },
         {
             "id": 1833,
             "repoName": "portals-webservice-secure",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-webservice-secure",
-            "githubUrl": "https://github.com/portals-webservice-secure"
+            "githubUrl": "https://github.com/Avantio/portals-webservice-secure"
         },
         {
             "id": 1828,
             "repoName": "portals-engine-receiver",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-engine-receiver",
-            "githubUrl": "https://github.com/portals-engine-receiver"
+            "githubUrl": "https://github.com/Avantio/portals-engine-receiver"
         },
         {
             "id": 1826,
             "repoName": "reviews-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/reviews-api",
-            "githubUrl": "https://github.com/reviews-api"
+            "githubUrl": "https://github.com/Avantio/reviews-api"
         },
         {
             "id": 1801,
             "repoName": "alerts-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/alerts-scheduler",
-            "githubUrl": "https://github.com/alerts-scheduler"
+            "githubUrl": "https://github.com/Avantio/alerts-scheduler"
         },
         {
             "id": 1798,
             "repoName": "portals-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-engine",
-            "githubUrl": "https://github.com/portals-engine"
+            "githubUrl": "https://github.com/Avantio/portals-engine"
         },
         {
             "id": 1739,
             "repoName": "calendar-exporter-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/calendar-exporter-api",
-            "githubUrl": "https://github.com/calendar-exporter-api"
+            "githubUrl": "https://github.com/Avantio/calendar-exporter-api"
         },
         {
             "id": 1731,
             "repoName": "alerts-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/alerts-engine",
-            "githubUrl": "https://github.com/alerts-engine"
+            "githubUrl": "https://github.com/Avantio/alerts-engine"
         },
         {
             "id": 1730,
             "repoName": "alerts-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/alerts-api",
-            "githubUrl": "https://github.com/alerts-api"
+            "githubUrl": "https://github.com/Avantio/alerts-api"
         },
         {
             "id": 1727,
             "repoName": "inbox-services",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/inbox-services",
-            "githubUrl": "https://github.com/inbox-services"
+            "githubUrl": "https://github.com/Avantio/inbox-services"
         },
         {
             "id": 1716,
             "repoName": "migration-jobs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/migration-jobs",
-            "githubUrl": "https://github.com/migration-jobs"
+            "githubUrl": "https://github.com/Avantio/migration-jobs"
         },
         {
             "id": 1697,
             "repoName": "booking-services",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/booking-services",
-            "githubUrl": "https://github.com/booking-services"
+            "githubUrl": "https://github.com/Avantio/booking-services"
         },
         {
             "id": 1685,
             "repoName": "vrbo-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrbo-api",
-            "githubUrl": "https://github.com/vrbo-api"
+            "githubUrl": "https://github.com/Avantio/vrbo-api"
         },
         {
             "id": 1683,
             "repoName": "feratel-booking",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/feratel-booking",
-            "githubUrl": "https://github.com/feratel-booking"
+            "githubUrl": "https://github.com/Avantio/feratel-booking"
         },
         {
             "id": 1682,
             "repoName": "connectivity-insomnia",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/connectivity-insomnia",
-            "githubUrl": "https://github.com/connectivity-insomnia"
+            "githubUrl": "https://github.com/Avantio/connectivity-insomnia"
         },
         {
             "id": 1670,
             "repoName": "inbox-migrator",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/inbox-migrator",
-            "githubUrl": "https://github.com/inbox-migrator"
+            "githubUrl": "https://github.com/Avantio/inbox-migrator"
         },
         {
             "id": 1669,
             "repoName": "feratel-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/feratel-engine",
-            "githubUrl": "https://github.com/feratel-engine"
+            "githubUrl": "https://github.com/Avantio/feratel-engine"
         },
         {
             "id": 1668,
             "repoName": "feratel-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/feratel-scheduler",
-            "githubUrl": "https://github.com/feratel-scheduler"
+            "githubUrl": "https://github.com/Avantio/feratel-scheduler"
         },
         {
             "id": 1667,
             "repoName": "feratel-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/feratel-api",
-            "githubUrl": "https://github.com/feratel-api"
+            "githubUrl": "https://github.com/Avantio/feratel-api"
         },
         {
             "id": 1665,
             "repoName": "airbnb-photo-scraper",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-photo-scraper",
-            "githubUrl": "https://github.com/airbnb-photo-scraper"
+            "githubUrl": "https://github.com/Avantio/airbnb-photo-scraper"
         },
         {
             "id": 1657,
             "repoName": "bcom-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bcom-api",
-            "githubUrl": "https://github.com/bcom-api"
+            "githubUrl": "https://github.com/Avantio/bcom-api"
         },
         {
             "id": 1641,
             "repoName": "length-of-stay-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/length-of-stay-api",
-            "githubUrl": "https://github.com/length-of-stay-api"
+            "githubUrl": "https://github.com/Avantio/length-of-stay-api"
         },
         {
             "id": 1640,
             "repoName": "locust-load-test",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/locust-load-test",
-            "githubUrl": "https://github.com/locust-load-test"
+            "githubUrl": "https://github.com/Avantio/locust-load-test"
         },
         {
             "id": 1612,
             "repoName": "timestream-healtchecks",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/timestream-healtchecks",
-            "githubUrl": "https://github.com/timestream-healtchecks"
+            "githubUrl": "https://github.com/Avantio/timestream-healtchecks"
         },
         {
             "id": 1610,
             "repoName": "rds-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/rds-scheduler",
-            "githubUrl": "https://github.com/rds-scheduler"
+            "githubUrl": "https://github.com/Avantio/rds-scheduler"
         },
         {
             "id": 1605,
             "repoName": "post-booking-actions",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/post-booking-actions",
-            "githubUrl": "https://github.com/post-booking-actions"
+            "githubUrl": "https://github.com/Avantio/post-booking-actions"
         },
         {
             "id": 1604,
             "repoName": "harmony-engine-sql",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/harmony-engine-sql",
-            "githubUrl": "https://github.com/harmony-engine-sql"
+            "githubUrl": "https://github.com/Avantio/harmony-engine-sql"
         },
         {
             "id": 1596,
             "repoName": "git-file-rm",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/git-file-rm",
-            "githubUrl": "https://github.com/git-file-rm"
+            "githubUrl": "https://github.com/Avantio/git-file-rm"
         },
         {
             "id": 1590,
             "repoName": "accounting-journal-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/accounting-journal-consumer",
-            "githubUrl": "https://github.com/accounting-journal-consumer"
+            "githubUrl": "https://github.com/Avantio/accounting-journal-consumer"
         },
         {
             "id": 1577,
             "repoName": "datatrans-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/datatrans-api",
-            "githubUrl": "https://github.com/datatrans-api"
+            "githubUrl": "https://github.com/Avantio/datatrans-api"
         },
         {
             "id": 1561,
             "repoName": "yaml-extractor",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/yaml-extractor",
-            "githubUrl": "https://github.com/yaml-extractor"
+            "githubUrl": "https://github.com/Avantio/yaml-extractor"
         },
         {
             "id": 1557,
             "repoName": "airbnb-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-scheduler",
-            "githubUrl": "https://github.com/airbnb-scheduler"
+            "githubUrl": "https://github.com/Avantio/airbnb-scheduler"
         },
         {
             "id": 1549,
             "repoName": "websocket-client",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/websocket-client",
-            "githubUrl": "https://github.com/websocket-client"
+            "githubUrl": "https://github.com/Avantio/websocket-client"
         },
         {
             "id": 1548,
             "repoName": "websocket-server",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/websocket-server",
-            "githubUrl": "https://github.com/websocket-server"
+            "githubUrl": "https://github.com/Avantio/websocket-server"
         },
         {
             "id": 1546,
             "repoName": "mongodb-collection-stats",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/mongodb-collection-stats",
-            "githubUrl": "https://github.com/mongodb-collection-stats"
+            "githubUrl": "https://github.com/Avantio/mongodb-collection-stats"
         },
         {
             "id": 1535,
             "repoName": "ha-olb-secure",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ha-olb-secure",
-            "githubUrl": "https://github.com/ha-olb-secure"
+            "githubUrl": "https://github.com/Avantio/ha-olb-secure"
         },
         {
             "id": 1533,
             "repoName": "portals-api-secure",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-api-secure",
-            "githubUrl": "https://github.com/portals-api-secure"
+            "githubUrl": "https://github.com/Avantio/portals-api-secure"
         },
         {
             "id": 1529,
             "repoName": "vrms-assets-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms-assets-api",
-            "githubUrl": "https://github.com/vrms-assets-api"
+            "githubUrl": "https://github.com/Avantio/vrms-assets-api"
         },
         {
             "id": 1528,
             "repoName": "components-lib",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/components-lib",
-            "githubUrl": "https://github.com/components-lib"
+            "githubUrl": "https://github.com/Avantio/components-lib"
         },
         {
             "id": 1527,
             "repoName": "vrms-translations",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms-translations",
-            "githubUrl": "https://github.com/vrms-translations"
+            "githubUrl": "https://github.com/Avantio/vrms-translations"
         },
         {
             "id": 1524,
             "repoName": "translations-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/translations-api",
-            "githubUrl": "https://github.com/translations-api"
+            "githubUrl": "https://github.com/Avantio/translations-api"
         },
         {
             "id": 1509,
             "repoName": "avantio-components",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avantio-components",
-            "githubUrl": "https://github.com/avantio-components"
+            "githubUrl": "https://github.com/Avantio/avantio-components"
         },
         {
             "id": 1506,
             "repoName": "google-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/google-api",
-            "githubUrl": "https://github.com/google-api"
+            "githubUrl": "https://github.com/Avantio/google-api"
         },
         {
             "id": 1494,
             "repoName": "fpm-exporter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/fpm-exporter",
-            "githubUrl": "https://github.com/fpm-exporter"
+            "githubUrl": "https://github.com/Avantio/fpm-exporter"
         },
         {
             "id": 1493,
             "repoName": "google-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/google-scheduler",
-            "githubUrl": "https://github.com/google-scheduler"
+            "githubUrl": "https://github.com/Avantio/google-scheduler"
         },
         {
             "id": 1492,
             "repoName": "vrms-monitor",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms-monitor",
-            "githubUrl": "https://github.com/vrms-monitor"
+            "githubUrl": "https://github.com/Avantio/vrms-monitor"
         },
         {
             "id": 1483,
             "repoName": "ticketbai-signer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ticketbai-signer",
-            "githubUrl": "https://github.com/ticketbai-signer"
+            "githubUrl": "https://github.com/Avantio/ticketbai-signer"
         },
         {
             "id": 1481,
             "repoName": "listing-status-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/listing-status-api",
-            "githubUrl": "https://github.com/listing-status-api"
+            "githubUrl": "https://github.com/Avantio/listing-status-api"
         },
         {
             "id": 1465,
             "repoName": "FrameworkHtdocs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/FrameworkHtdocs",
-            "githubUrl": "https://github.com/FrameworkHtdocs"
+            "githubUrl": "https://github.com/Avantio/FrameworkHtdocs"
         },
         {
             "id": 1463,
             "repoName": "sqs-deduplicator",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/sqs-deduplicator",
-            "githubUrl": "https://github.com/sqs-deduplicator"
+            "githubUrl": "https://github.com/Avantio/sqs-deduplicator"
         },
         {
             "id": 1452,
             "repoName": "unassigned-rates-checker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/unassigned-rates-checker",
-            "githubUrl": "https://github.com/unassigned-rates-checker"
+            "githubUrl": "https://github.com/Avantio/unassigned-rates-checker"
         },
         {
             "id": 1433,
             "repoName": "climap",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/climap",
-            "githubUrl": "https://github.com/climap"
+            "githubUrl": "https://github.com/Avantio/climap"
         },
         {
             "id": 1427,
             "repoName": "otp-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/otp-api",
-            "githubUrl": "https://github.com/otp-api"
+            "githubUrl": "https://github.com/Avantio/otp-api"
         },
         {
             "id": 1414,
             "repoName": "lambda-resize",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/lambda-resize",
-            "githubUrl": "https://github.com/lambda-resize"
+            "githubUrl": "https://github.com/Avantio/lambda-resize"
         },
         {
             "id": 1406,
             "repoName": "los-reporter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/los-reporter",
-            "githubUrl": "https://github.com/los-reporter"
+            "githubUrl": "https://github.com/Avantio/los-reporter"
         },
         {
             "id": 1402,
             "repoName": "airbnb-client",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-client",
-            "githubUrl": "https://github.com/airbnb-client"
+            "githubUrl": "https://github.com/Avantio/airbnb-client"
         },
         {
             "id": 1374,
             "repoName": "blogs-webplus-v8",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/blogs-webplus-v8",
-            "githubUrl": "https://github.com/blogs-webplus-v8"
+            "githubUrl": "https://github.com/Avantio/blogs-webplus-v8"
         },
         {
             "id": 1360,
             "repoName": "feature-rule-set-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/feature-rule-set-api",
-            "githubUrl": "https://github.com/feature-rule-set-api"
+            "githubUrl": "https://github.com/Avantio/feature-rule-set-api"
         },
         {
             "id": 1356,
             "repoName": "avenda-puller",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avenda-puller",
-            "githubUrl": "https://github.com/avenda-puller"
+            "githubUrl": "https://github.com/Avantio/avenda-puller"
         },
         {
             "id": 1354,
             "repoName": "avenda-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avenda-consumer",
-            "githubUrl": "https://github.com/avenda-consumer"
+            "githubUrl": "https://github.com/Avantio/avenda-consumer"
         },
         {
             "id": 1352,
             "repoName": "avenda-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avenda-api",
-            "githubUrl": "https://github.com/avenda-api"
+            "githubUrl": "https://github.com/Avantio/avenda-api"
         },
         {
             "id": 1348,
             "repoName": "airbnb-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-engine",
-            "githubUrl": "https://github.com/airbnb-engine"
+            "githubUrl": "https://github.com/Avantio/airbnb-engine"
         },
         {
             "id": 1347,
             "repoName": "messaging-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/messaging-api",
-            "githubUrl": "https://github.com/messaging-api"
+            "githubUrl": "https://github.com/Avantio/messaging-api"
         },
         {
             "id": 1340,
             "repoName": "npm-packages",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/npm-packages",
-            "githubUrl": "https://github.com/npm-packages"
+            "githubUrl": "https://github.com/Avantio/npm-packages"
         },
         {
             "id": 1334,
             "repoName": "airbnb-webhook-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-webhook-consumer",
-            "githubUrl": "https://github.com/airbnb-webhook-consumer"
+            "githubUrl": "https://github.com/Avantio/airbnb-webhook-consumer"
         },
         {
             "id": 1333,
             "repoName": "airbnb-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnb-api",
-            "githubUrl": "https://github.com/airbnb-api"
+            "githubUrl": "https://github.com/Avantio/airbnb-api"
         },
         {
             "id": 1321,
             "repoName": "messaging-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/messaging-consumer",
-            "githubUrl": "https://github.com/messaging-consumer"
+            "githubUrl": "https://github.com/Avantio/messaging-consumer"
         },
         {
             "id": 1305,
             "repoName": "poc-synchro-cdc",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/poc-synchro-cdc",
-            "githubUrl": "https://github.com/poc-synchro-cdc"
+            "githubUrl": "https://github.com/Avantio/poc-synchro-cdc"
         },
         {
             "id": 1300,
             "repoName": "pms-api-docs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pms-api-docs",
-            "githubUrl": "https://github.com/pms-api-docs"
+            "githubUrl": "https://github.com/Avantio/pms-api-docs"
         },
         {
             "id": 1293,
             "repoName": "soap-script-examples",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/soap-script-examples",
-            "githubUrl": "https://github.com/soap-script-examples"
+            "githubUrl": "https://github.com/Avantio/soap-script-examples"
         },
         {
             "id": 1292,
             "repoName": "payments-webhooks",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/payments-webhooks",
-            "githubUrl": "https://github.com/payments-webhooks"
+            "githubUrl": "https://github.com/Avantio/payments-webhooks"
         },
         {
             "id": 1289,
             "repoName": "fw-scss-compiler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/fw-scss-compiler",
-            "githubUrl": "https://github.com/fw-scss-compiler"
+            "githubUrl": "https://github.com/Avantio/fw-scss-compiler"
         },
         {
             "id": 1277,
             "repoName": "api-for-pms-docs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/api-for-pms-docs",
-            "githubUrl": "https://github.com/api-for-pms-docs"
+            "githubUrl": "https://github.com/Avantio/api-for-pms-docs"
         },
         {
             "id": 1274,
             "repoName": "accounting-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/accounting-api",
-            "githubUrl": "https://github.com/accounting-api"
+            "githubUrl": "https://github.com/Avantio/accounting-api"
         }
   ,{
             "id": 1270,
             "repoName": "backuper",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/backuper",
-            "githubUrl": "https://github.com/backuper"
+            "githubUrl": "https://github.com/Avantio/backuper"
         },
         {
             "id": 1240,
             "repoName": "expedia-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/expedia-scheduler",
-            "githubUrl": "https://github.com/expedia-scheduler"
+            "githubUrl": "https://github.com/Avantio/expedia-scheduler"
         },
         {
             "id": 1228,
             "repoName": "google-exporter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/google-exporter",
-            "githubUrl": "https://github.com/google-exporter"
+            "githubUrl": "https://github.com/Avantio/google-exporter"
         },
         {
             "id": 1212,
             "repoName": "sample-bookings",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/sample-bookings",
-            "githubUrl": "https://github.com/sample-bookings"
+            "githubUrl": "https://github.com/Avantio/sample-bookings"
         },
         {
             "id": 1198,
             "repoName": "serviceprovider-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/serviceprovider-api",
-            "githubUrl": "https://github.com/serviceprovider-api"
+            "githubUrl": "https://github.com/Avantio/serviceprovider-api"
         },
         {
             "id": 1197,
             "repoName": "marriott-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/marriott-scheduler",
-            "githubUrl": "https://github.com/marriott-scheduler"
+            "githubUrl": "https://github.com/Avantio/marriott-scheduler"
         },
         {
             "id": 1178,
             "repoName": "marriott-olb",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/marriott-olb",
-            "githubUrl": "https://github.com/marriott-olb"
+            "githubUrl": "https://github.com/Avantio/marriott-olb"
         },
         {
             "id": 1177,
             "repoName": "paranoid-pirate-poc",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/paranoid-pirate-poc",
-            "githubUrl": "https://github.com/paranoid-pirate-poc"
+            "githubUrl": "https://github.com/Avantio/paranoid-pirate-poc"
         },
         {
             "id": 1175,
             "repoName": "price-worker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/price-worker",
-            "githubUrl": "https://github.com/price-worker"
+            "githubUrl": "https://github.com/Avantio/price-worker"
         },
         {
             "id": 1166,
             "repoName": "package-finder",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/package-finder",
-            "githubUrl": "https://github.com/package-finder"
+            "githubUrl": "https://github.com/Avantio/package-finder"
         },
         {
             "id": 1124,
             "repoName": "ha-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ha-scheduler",
-            "githubUrl": "https://github.com/ha-scheduler"
+            "githubUrl": "https://github.com/Avantio/ha-scheduler"
         },
         {
             "id": 1123,
             "repoName": "ha-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ha-engine",
-            "githubUrl": "https://github.com/ha-engine"
+            "githubUrl": "https://github.com/Avantio/ha-engine"
         },
         {
             "id": 1081,
             "repoName": "marriott-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/marriott-engine",
-            "githubUrl": "https://github.com/marriott-engine"
+            "githubUrl": "https://github.com/Avantio/marriott-engine"
         },
         {
             "id": 1078,
             "repoName": "translationsolb",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/translationsolb",
-            "githubUrl": "https://github.com/translationsolb"
+            "githubUrl": "https://github.com/Avantio/translationsolb"
         },
         {
             "id": 1066,
             "repoName": "authorities-exporter-e",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/authorities-exporter-e",
-            "githubUrl": "https://github.com/authorities-exporter-e"
+            "githubUrl": "https://github.com/Avantio/authorities-exporter-e"
         },
         {
             "id": 1026,
             "repoName": "portals-api-access-management-front",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-api-access-management-front",
-            "githubUrl": "https://github.com/portals-api-access-management-front"
+            "githubUrl": "https://github.com/Avantio/portals-api-access-management-front"
         },
         {
             "id": 1020,
             "repoName": "portals-api-access-management",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-api-access-management",
-            "githubUrl": "https://github.com/portals-api-access-management"
+            "githubUrl": "https://github.com/Avantio/portals-api-access-management"
         },
         {
             "id": 1019,
             "repoName": "api-docs-internal",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/api-docs-internal",
-            "githubUrl": "https://github.com/api-docs-internal"
+            "githubUrl": "https://github.com/Avantio/api-docs-internal"
         },
         {
             "id": 971,
             "repoName": "length-of-stay-generator",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/length-of-stay-generator",
-            "githubUrl": "https://github.com/length-of-stay-generator"
+            "githubUrl": "https://github.com/Avantio/length-of-stay-generator"
         },
         {
             "id": 969,
             "repoName": "length-of-stay-protobuf",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/length-of-stay-protobuf",
-            "githubUrl": "https://github.com/length-of-stay-protobuf"
+            "githubUrl": "https://github.com/Avantio/length-of-stay-protobuf"
         },
         {
             "id": 968,
             "repoName": "length-of-stay-grpc-server",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/length-of-stay-grpc-server",
-            "githubUrl": "https://github.com/length-of-stay-grpc-server"
+            "githubUrl": "https://github.com/Avantio/length-of-stay-grpc-server"
         },
         {
             "id": 941,
             "repoName": "core-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/core-api",
-            "githubUrl": "https://github.com/core-api"
+            "githubUrl": "https://github.com/Avantio/core-api"
         },
         {
             "id": 915,
             "repoName": "kong-api-gateway",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/kong-api-gateway",
-            "githubUrl": "https://github.com/kong-api-gateway"
+            "githubUrl": "https://github.com/Avantio/kong-api-gateway"
         },
         {
             "id": 909,
             "repoName": "booking-import-linter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/booking-import-linter",
-            "githubUrl": "https://github.com/booking-import-linter"
+            "githubUrl": "https://github.com/Avantio/booking-import-linter"
         },
         {
             "id": 890,
             "repoName": "kiwi-manager",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/kiwi-manager",
-            "githubUrl": "https://github.com/kiwi-manager"
+            "githubUrl": "https://github.com/Avantio/kiwi-manager"
         },
         {
             "id": 883,
             "repoName": "api-docs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/api-docs",
-            "githubUrl": "https://github.com/api-docs"
+            "githubUrl": "https://github.com/Avantio/api-docs"
         },
         {
             "id": 881,
             "repoName": "listings-importer-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/listings-importer-api",
-            "githubUrl": "https://github.com/listings-importer-api"
+            "githubUrl": "https://github.com/Avantio/listings-importer-api"
         },
         {
             "id": 877,
             "repoName": "listings-importer-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/listings-importer-engine",
-            "githubUrl": "https://github.com/listings-importer-engine"
+            "githubUrl": "https://github.com/Avantio/listings-importer-engine"
         },
         {
             "id": 875,
             "repoName": "blog-vacancesblog",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/blog-vacancesblog",
-            "githubUrl": "https://github.com/blog-vacancesblog"
+            "githubUrl": "https://github.com/Avantio/blog-vacancesblog"
         },
         {
             "id": 864,
             "repoName": "cntrlaltsup",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/cntrlaltsup",
-            "githubUrl": "https://github.com/cntrlaltsup"
+            "githubUrl": "https://github.com/Avantio/cntrlaltsup"
         },
         {
             "id": 819,
             "repoName": "bookings-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bookings-api",
-            "githubUrl": "https://github.com/bookings-api"
+            "githubUrl": "https://github.com/Avantio/bookings-api"
         },
         {
             "id": 809,
             "repoName": "inbox-server",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/inbox-server",
-            "githubUrl": "https://github.com/inbox-server"
+            "githubUrl": "https://github.com/Avantio/inbox-server"
         },
         {
             "id": 780,
             "repoName": "vrms-connector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms-connector",
-            "githubUrl": "https://github.com/vrms-connector"
+            "githubUrl": "https://github.com/Avantio/vrms-connector"
         },
         {
             "id": 742,
             "repoName": "channel-connection-manager",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/channel-connection-manager",
-            "githubUrl": "https://github.com/channel-connection-manager"
+            "githubUrl": "https://github.com/Avantio/channel-connection-manager"
         },
         {
             "id": 727,
             "repoName": "express-exporter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/express-exporter",
-            "githubUrl": "https://github.com/express-exporter"
+            "githubUrl": "https://github.com/Avantio/express-exporter"
         },
         {
             "id": 716,
             "repoName": "challenge-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/challenge-api",
-            "githubUrl": "https://github.com/challenge-api"
+            "githubUrl": "https://github.com/Avantio/challenge-api"
         },
         {
             "id": 713,
             "repoName": "resync-jobs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/resync-jobs",
-            "githubUrl": "https://github.com/resync-jobs"
+            "githubUrl": "https://github.com/Avantio/resync-jobs"
         },
         {
             "id": 698,
             "repoName": "get-css",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/get-css",
-            "githubUrl": "https://github.com/get-css"
+            "githubUrl": "https://github.com/Avantio/get-css"
         },
         {
             "id": 661,
             "repoName": "remarketing-tools",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/remarketing-tools",
-            "githubUrl": "https://github.com/remarketing-tools"
+            "githubUrl": "https://github.com/Avantio/remarketing-tools"
         },
         {
             "id": 646,
             "repoName": "seasons-aggregator",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/seasons-aggregator",
-            "githubUrl": "https://github.com/seasons-aggregator"
+            "githubUrl": "https://github.com/Avantio/seasons-aggregator"
         },
         {
             "id": 607,
             "repoName": "mongoose-i18n-localize",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/mongoose-i18n-localize",
-            "githubUrl": "https://github.com/mongoose-i18n-localize"
+            "githubUrl": "https://github.com/Avantio/mongoose-i18n-localize"
         },
         {
             "id": 572,
             "repoName": "checkin-export-dispatcher",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/checkin-export-dispatcher",
-            "githubUrl": "https://github.com/checkin-export-dispatcher"
+            "githubUrl": "https://github.com/Avantio/checkin-export-dispatcher"
         },
         {
             "id": 569,
             "repoName": "checkin-export-uploader",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/checkin-export-uploader",
-            "githubUrl": "https://github.com/checkin-export-uploader"
+            "githubUrl": "https://github.com/Avantio/checkin-export-uploader"
         },
         {
             "id": 566,
             "repoName": "eslint-config-avantio-typescript",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/eslint-config-avantio-typescript",
-            "githubUrl": "https://github.com/eslint-config-avantio-typescript"
+            "githubUrl": "https://github.com/Avantio/eslint-config-avantio-typescript"
         },
         {
             "id": 549,
             "repoName": "lumen-boilerplate",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/lumen-boilerplate",
-            "githubUrl": "https://github.com/lumen-boilerplate"
+            "githubUrl": "https://github.com/Avantio/lumen-boilerplate"
         },
         {
             "id": 547,
             "repoName": "inbox-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/inbox-api",
-            "githubUrl": "https://github.com/inbox-api"
+            "githubUrl": "https://github.com/Avantio/inbox-api"
         },
         {
             "id": 545,
             "repoName": "logger-lib",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/logger-lib",
-            "githubUrl": "https://github.com/logger-lib"
+            "githubUrl": "https://github.com/Avantio/logger-lib"
         },
         {
             "id": 544,
             "repoName": "serverless-pdf-merge",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/serverless-pdf-merge",
-            "githubUrl": "https://github.com/serverless-pdf-merge"
+            "githubUrl": "https://github.com/Avantio/serverless-pdf-merge"
         },
         {
             "id": 541,
             "repoName": "portals-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/portals-api",
-            "githubUrl": "https://github.com/portals-api"
+            "githubUrl": "https://github.com/Avantio/portals-api"
         },
         {
             "id": 540,
             "repoName": "eslint-config-avantio",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/eslint-config-avantio",
-            "githubUrl": "https://github.com/eslint-config-avantio"
+            "githubUrl": "https://github.com/Avantio/eslint-config-avantio"
         },
         {
             "id": 527,
             "repoName": "descriptions-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/descriptions-api",
-            "githubUrl": "https://github.com/descriptions-api"
+            "githubUrl": "https://github.com/Avantio/descriptions-api"
         },
         {
             "id": 522,
             "repoName": "logger-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/logger-api",
-            "githubUrl": "https://github.com/logger-api"
+            "githubUrl": "https://github.com/Avantio/logger-api"
         },
         {
             "id": 521,
             "repoName": "serverless-html-to-pdf",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/serverless-html-to-pdf",
-            "githubUrl": "https://github.com/serverless-html-to-pdf"
+            "githubUrl": "https://github.com/Avantio/serverless-html-to-pdf"
         },
         {
             "id": 518,
             "repoName": "olb-widgets",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/olb-widgets",
-            "githubUrl": "https://github.com/olb-widgets"
+            "githubUrl": "https://github.com/Avantio/olb-widgets"
         },
         {
             "id": 515,
             "repoName": "buque",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/buque",
-            "githubUrl": "https://github.com/buque"
+            "githubUrl": "https://github.com/Avantio/buque"
         },
         {
             "id": 509,
             "repoName": "olb-sitemap",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/olb-sitemap",
-            "githubUrl": "https://github.com/olb-sitemap"
+            "githubUrl": "https://github.com/Avantio/olb-sitemap"
         },
         {
             "id": 505,
             "repoName": "avenda-lib",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avenda-lib",
-            "githubUrl": "https://github.com/avenda-lib"
+            "githubUrl": "https://github.com/Avantio/avenda-lib"
         },
         {
             "id": 448,
             "repoName": "analytics-proxy",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/analytics-proxy",
-            "githubUrl": "https://github.com/analytics-proxy"
+            "githubUrl": "https://github.com/Avantio/analytics-proxy"
         },
         {
             "id": 250,
             "repoName": "genera-modulos-web",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/genera-modulos-web",
-            "githubUrl": "https://github.com/genera-modulos-web"
+            "githubUrl": "https://github.com/Avantio/genera-modulos-web"
         },
         {
             "id": 249,
             "repoName": "bcom-scheduler",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bcom-scheduler",
-            "githubUrl": "https://github.com/bcom-scheduler"
+            "githubUrl": "https://github.com/Avantio/bcom-scheduler"
         },
         {
             "id": 240,
             "repoName": "ocr-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ocr-engine",
-            "githubUrl": "https://github.com/ocr-engine"
+            "githubUrl": "https://github.com/Avantio/ocr-engine"
         },
         {
             "id": 237,
             "repoName": "front-checkin",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-checkin",
-            "githubUrl": "https://github.com/front-checkin"
+            "githubUrl": "https://github.com/Avantio/front-checkin"
         },
         {
             "id": 236,
             "repoName": "seminario-uv",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/seminario-uv",
-            "githubUrl": "https://github.com/seminario-uv"
+            "githubUrl": "https://github.com/Avantio/seminario-uv"
         },
         {
             "id": 235,
             "repoName": "panic-cc",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/panic-cc",
-            "githubUrl": "https://github.com/panic-cc"
+            "githubUrl": "https://github.com/Avantio/panic-cc"
         },
         {
             "id": 234,
             "repoName": "bcom-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bcom-engine",
-            "githubUrl": "https://github.com/bcom-engine"
+            "githubUrl": "https://github.com/Avantio/bcom-engine"
         },
         {
             "id": 232,
             "repoName": "synchronization-checker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/synchronization-checker",
-            "githubUrl": "https://github.com/synchronization-checker"
+            "githubUrl": "https://github.com/Avantio/synchronization-checker"
         },
         {
             "id": 229,
             "repoName": "error-synchronizer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/error-synchronizer",
-            "githubUrl": "https://github.com/error-synchronizer"
+            "githubUrl": "https://github.com/Avantio/error-synchronizer"
         },
         {
             "id": 228,
             "repoName": "payments-dispatcher",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/payments-dispatcher",
-            "githubUrl": "https://github.com/payments-dispatcher"
+            "githubUrl": "https://github.com/Avantio/payments-dispatcher"
         },
         {
             "id": 226,
             "repoName": "wolbenvironment",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/wolbenvironment",
-            "githubUrl": "https://github.com/wolbenvironment"
+            "githubUrl": "https://github.com/Avantio/wolbenvironment"
         },
         {
             "id": 223,
             "repoName": "framework-template",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/framework-template",
-            "githubUrl": "https://github.com/framework-template"
+            "githubUrl": "https://github.com/Avantio/framework-template"
         },
         {
             "id": 222,
             "repoName": "framework-resources",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/framework-resources",
-            "githubUrl": "https://github.com/framework-resources"
+            "githubUrl": "https://github.com/Avantio/framework-resources"
         },
         {
             "id": 221,
             "repoName": "api-for-portals-docs",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/api-for-portals-docs",
-            "githubUrl": "https://github.com/api-for-portals-docs"
+            "githubUrl": "https://github.com/Avantio/api-for-portals-docs"
         },
         {
             "id": 219,
             "repoName": "landing-support",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/landing-support",
-            "githubUrl": "https://github.com/landing-support"
+            "githubUrl": "https://github.com/Avantio/landing-support"
         },
         {
             "id": 218,
             "repoName": "back-minganet",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/back-minganet",
-            "githubUrl": "https://github.com/back-minganet"
+            "githubUrl": "https://github.com/Avantio/back-minganet"
         },
         {
             "id": 217,
             "repoName": "front-minganet",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-minganet",
-            "githubUrl": "https://github.com/front-minganet"
+            "githubUrl": "https://github.com/Avantio/front-minganet"
         },
         {
             "id": 213,
             "repoName": "front-webs-dashboard",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-webs-dashboard",
-            "githubUrl": "https://github.com/front-webs-dashboard"
+            "githubUrl": "https://github.com/Avantio/front-webs-dashboard"
         },
         {
             "id": 211,
             "repoName": "saft-consumer",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/saft-consumer",
-            "githubUrl": "https://github.com/saft-consumer"
+            "githubUrl": "https://github.com/Avantio/saft-consumer"
         },
         {
             "id": 206,
             "repoName": "servers-php",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/servers-php",
-            "githubUrl": "https://github.com/servers-php"
+            "githubUrl": "https://github.com/Avantio/servers-php"
         },
         {
             "id": 203,
             "repoName": "olb-utils",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/olb-utils",
-            "githubUrl": "https://github.com/olb-utils"
+            "githubUrl": "https://github.com/Avantio/olb-utils"
         },
         {
             "id": 198,
             "repoName": "wsf",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/wsf",
-            "githubUrl": "https://github.com/wsf"
+            "githubUrl": "https://github.com/Avantio/wsf"
         },
         {
             "id": 196,
             "repoName": "pigdom",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pigdom",
-            "githubUrl": "https://github.com/pigdom"
+            "githubUrl": "https://github.com/Avantio/pigdom"
         },
         {
             "id": 195,
             "repoName": "mssql-replication-checker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/mssql-replication-checker",
-            "githubUrl": "https://github.com/mssql-replication-checker"
+            "githubUrl": "https://github.com/Avantio/mssql-replication-checker"
         },
         {
             "id": 194,
             "repoName": "minganet-logger",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/minganet-logger",
-            "githubUrl": "https://github.com/minganet-logger"
+            "githubUrl": "https://github.com/Avantio/minganet-logger"
         },
         {
             "id": 193,
             "repoName": "channel-kiwi",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/channel-kiwi",
-            "githubUrl": "https://github.com/channel-kiwi"
+            "githubUrl": "https://github.com/Avantio/channel-kiwi"
         },
         {
             "id": 191,
             "repoName": "datosBroker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/datosBroker",
-            "githubUrl": "https://github.com/datosBroker"
+            "githubUrl": "https://github.com/Avantio/datosBroker"
         },
         {
             "id": 181,
             "repoName": "blogs-webplus-v2",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/blogs-webplus-v2",
-            "githubUrl": "https://github.com/blogs-webplus-v2"
+            "githubUrl": "https://github.com/Avantio/blogs-webplus-v2"
         },
         {
             "id": 180,
             "repoName": "olb-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/olb-api",
-            "githubUrl": "https://github.com/olb-api"
+            "githubUrl": "https://github.com/Avantio/olb-api"
         },
         {
             "id": 178,
             "repoName": "installfwk",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/installfwk",
-            "githubUrl": "https://github.com/installfwk"
+            "githubUrl": "https://github.com/Avantio/installfwk"
         },
         {
             "id": 177,
             "repoName": "expedia-engine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/expedia-engine",
-            "githubUrl": "https://github.com/expedia-engine"
+            "githubUrl": "https://github.com/Avantio/expedia-engine"
         },
         {
             "id": 166,
             "repoName": "payments-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/payments-api",
-            "githubUrl": "https://github.com/payments-api"
+            "githubUrl": "https://github.com/Avantio/payments-api"
         },
         {
             "id": 165,
             "repoName": "payments",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/payments",
-            "githubUrl": "https://github.com/payments"
+            "githubUrl": "https://github.com/Avantio/payments"
         },
         {
             "id": 156,
             "repoName": "front-who-is-who",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-who-is-who",
-            "githubUrl": "https://github.com/front-who-is-who"
+            "githubUrl": "https://github.com/Avantio/front-who-is-who"
         },
         {
             "id": 155,
             "repoName": "back-who-is-who",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/back-who-is-who",
-            "githubUrl": "https://github.com/back-who-is-who"
+            "githubUrl": "https://github.com/Avantio/back-who-is-who"
         },
         {
             "id": 150,
             "repoName": "pricex",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pricex",
-            "githubUrl": "https://github.com/pricex"
+            "githubUrl": "https://github.com/Avantio/pricex"
         },
         {
             "id": 149,
             "repoName": "pricex-server",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/pricex-server",
-            "githubUrl": "https://github.com/pricex-server"
+            "githubUrl": "https://github.com/Avantio/pricex-server"
         },
         {
             "id": 148,
             "repoName": "intranet-activator",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/intranet-activator",
-            "githubUrl": "https://github.com/intranet-activator"
+            "githubUrl": "https://github.com/Avantio/intranet-activator"
         },
         {
             "id": 147,
             "repoName": "back-channel",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/back-channel",
-            "githubUrl": "https://github.com/back-channel"
+            "githubUrl": "https://github.com/Avantio/back-channel"
         },
         {
             "id": 146,
             "repoName": "front-channel",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-channel",
-            "githubUrl": "https://github.com/front-channel"
+            "githubUrl": "https://github.com/Avantio/front-channel"
         },
         {
             "id": 144,
             "repoName": "ha-olb",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ha-olb",
-            "githubUrl": "https://github.com/ha-olb"
+            "githubUrl": "https://github.com/Avantio/ha-olb"
         },
         {
             "id": 143,
             "repoName": "ha-listings",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ha-listings",
-            "githubUrl": "https://github.com/ha-listings"
+            "githubUrl": "https://github.com/Avantio/ha-listings"
         }
   ,{
             "id": 142,
             "repoName": "nf525-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/nf525-api",
-            "githubUrl": "https://github.com/nf525-api"
+            "githubUrl": "https://github.com/Avantio/nf525-api"
         },
         {
             "id": 141,
             "repoName": "core",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/core",
-            "githubUrl": "https://github.com/core"
+            "githubUrl": "https://github.com/Avantio/core"
         },
         {
             "id": 131,
             "repoName": "ffuentes/back-dailytrends",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/ffuentes/back-dailytrends",
-            "githubUrl": "https://github.com/ffuentes/back-dailytrends"
+            "githubUrl": "https://github.com/Avantio/ffuentes/back-dailytrends"
         },
         {
             "id": 128,
             "repoName": "corparative-web",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/corparative-web",
-            "githubUrl": "https://github.com/corparative-web"
+            "githubUrl": "https://github.com/Avantio/corparative-web"
         },
         {
             "id": 127,
             "repoName": "synchronization-utils",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/synchronization-utils",
-            "githubUrl": "https://github.com/synchronization-utils"
+            "githubUrl": "https://github.com/Avantio/synchronization-utils"
         },
         {
             "id": 126,
             "repoName": "synchronization-ui",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/synchronization-ui",
-            "githubUrl": "https://github.com/synchronization-ui"
+            "githubUrl": "https://github.com/Avantio/synchronization-ui"
         },
         {
             "id": 124,
             "repoName": "csv-migration",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/csv-migration",
-            "githubUrl": "https://github.com/csv-migration"
+            "githubUrl": "https://github.com/Avantio/csv-migration"
         },
         {
             "id": 122,
             "repoName": "synchronization-dispatcher",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/synchronization-dispatcher",
-            "githubUrl": "https://github.com/synchronization-dispatcher"
+            "githubUrl": "https://github.com/Avantio/synchronization-dispatcher"
         },
         {
             "id": 119,
             "repoName": "blogs-webplus-v7",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/blogs-webplus-v7",
-            "githubUrl": "https://github.com/blogs-webplus-v7"
+            "githubUrl": "https://github.com/Avantio/blogs-webplus-v7"
         },
         {
             "id": 118,
             "repoName": "notifications-api-blueprint",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/notifications-api-blueprint",
-            "githubUrl": "https://github.com/notifications-api-blueprint"
+            "githubUrl": "https://github.com/Avantio/notifications-api-blueprint"
         },
         {
             "id": 117,
             "repoName": "synchronization-apu",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/synchronization-apu",
-            "githubUrl": "https://github.com/synchronization-apu"
+            "githubUrl": "https://github.com/Avantio/synchronization-apu"
         },
         {
             "id": 115,
             "repoName": "oauth-middleware",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/oauth-middleware",
-            "githubUrl": "https://github.com/oauth-middleware"
+            "githubUrl": "https://github.com/Avantio/oauth-middleware"
         },
         {
             "id": 113,
             "repoName": "default-site",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/default-site",
-            "githubUrl": "https://github.com/default-site"
+            "githubUrl": "https://github.com/Avantio/default-site"
         },
         {
             "id": 112,
             "repoName": "notifications-api",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/notifications-api",
-            "githubUrl": "https://github.com/notifications-api"
+            "githubUrl": "https://github.com/Avantio/notifications-api"
         },
         {
             "id": 111,
             "repoName": "data-model",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/data-model",
-            "githubUrl": "https://github.com/data-model"
+            "githubUrl": "https://github.com/Avantio/data-model"
         },
         {
             "id": 109,
             "repoName": "oauth-server",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/oauth-server",
-            "githubUrl": "https://github.com/oauth-server"
+            "githubUrl": "https://github.com/Avantio/oauth-server"
         },
         {
             "id": 107,
             "repoName": "front-intranet",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/front-intranet",
-            "githubUrl": "https://github.com/front-intranet"
+            "githubUrl": "https://github.com/Avantio/front-intranet"
         },
         {
             "id": 106,
             "repoName": "back-intranet",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/back-intranet",
-            "githubUrl": "https://github.com/back-intranet"
+            "githubUrl": "https://github.com/Avantio/back-intranet"
         },
         {
             "id": 105,
             "repoName": "expediaConnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/expediaConnector",
-            "githubUrl": "https://github.com/expediaConnector"
+            "githubUrl": "https://github.com/Avantio/expediaConnector"
         },
         {
             "id": 104,
             "repoName": "webservices-rest-blueprint",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/webservices-rest-blueprint",
-            "githubUrl": "https://github.com/webservices-rest-blueprint"
+            "githubUrl": "https://github.com/Avantio/webservices-rest-blueprint"
         },
         {
             "id": 103,
             "repoName": "currencies-lambda",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/currencies-lambda",
-            "githubUrl": "https://github.com/currencies-lambda"
+            "githubUrl": "https://github.com/Avantio/currencies-lambda"
         },
         {
             "id": 102,
             "repoName": "blog-btoyou",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/blog-btoyou",
-            "githubUrl": "https://github.com/blog-btoyou"
+            "githubUrl": "https://github.com/Avantio/blog-btoyou"
         },
         {
             "id": 101,
             "repoName": "web-btoyou",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/web-btoyou",
-            "githubUrl": "https://github.com/web-btoyou"
+            "githubUrl": "https://github.com/Avantio/web-btoyou"
         },
         {
             "id": 100,
             "repoName": "syspay",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/syspay",
-            "githubUrl": "https://github.com/syspay"
+            "githubUrl": "https://github.com/Avantio/syspay"
         },
         {
             "id": 99,
             "repoName": "docker-avantio-php-fpm",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/docker-avantio-php-fpm",
-            "githubUrl": "https://github.com/docker-avantio-php-fpm"
+            "githubUrl": "https://github.com/Avantio/docker-avantio-php-fpm"
         },
         {
             "id": 76,
             "repoName": "avantiofeedconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avantiofeedconnector",
-            "githubUrl": "https://github.com/avantiofeedconnector"
+            "githubUrl": "https://github.com/Avantio/avantiofeedconnector"
         },
         {
             "id": 75,
             "repoName": "avantiolegacyconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avantiolegacyconnector",
-            "githubUrl": "https://github.com/avantiolegacyconnector"
+            "githubUrl": "https://github.com/Avantio/avantiolegacyconnector"
         },
         {
             "id": 74,
             "repoName": "avantioconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/avantioconnector",
-            "githubUrl": "https://github.com/avantioconnector"
+            "githubUrl": "https://github.com/Avantio/avantioconnector"
         },
         {
             "id": 73,
             "repoName": "bookingengine",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bookingengine",
-            "githubUrl": "https://github.com/bookingengine"
+            "githubUrl": "https://github.com/Avantio/bookingengine"
         },
         {
             "id": 72,
             "repoName": "vrmsdb",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrmsdb",
-            "githubUrl": "https://github.com/vrmsdb"
+            "githubUrl": "https://github.com/Avantio/vrmsdb"
         },
         {
             "id": 71,
             "repoName": "vrms",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/vrms",
-            "githubUrl": "https://github.com/vrms"
+            "githubUrl": "https://github.com/Avantio/vrms"
         },
         {
             "id": 70,
             "repoName": "availabilitiesexporter",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/availabilitiesexporter",
-            "githubUrl": "https://github.com/availabilitiesexporter"
+            "githubUrl": "https://github.com/Avantio/availabilitiesexporter"
         },
         {
             "id": 69,
             "repoName": "icalconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/icalconnector",
-            "githubUrl": "https://github.com/icalconnector"
+            "githubUrl": "https://github.com/Avantio/icalconnector"
         },
         {
             "id": 68,
             "repoName": "channelmanagerwizard",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/channelmanagerwizard",
-            "githubUrl": "https://github.com/channelmanagerwizard"
+            "githubUrl": "https://github.com/Avantio/channelmanagerwizard"
         },
         {
             "id": 67,
             "repoName": "hotetecconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/hotetecconnector",
-            "githubUrl": "https://github.com/hotetecconnector"
+            "githubUrl": "https://github.com/Avantio/hotetecconnector"
         },
         {
             "id": 66,
             "repoName": "homeawayconnectorolb",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/homeawayconnectorolb",
-            "githubUrl": "https://github.com/homeawayconnectorolb"
+            "githubUrl": "https://github.com/Avantio/homeawayconnectorolb"
         },
         {
             "id": 65,
             "repoName": "FrameworkITS",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/FrameworkITS",
-            "githubUrl": "https://github.com/FrameworkITS"
+            "githubUrl": "https://github.com/Avantio/FrameworkITS"
         },
         {
             "id": 64,
             "repoName": "muchosolstatics",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/muchosolstatics",
-            "githubUrl": "https://github.com/muchosolstatics"
+            "githubUrl": "https://github.com/Avantio/muchosolstatics"
         },
         {
             "id": 63,
             "repoName": "muchosolconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/muchosolconnector",
-            "githubUrl": "https://github.com/muchosolconnector"
+            "githubUrl": "https://github.com/Avantio/muchosolconnector"
         },
         {
             "id": 62,
             "repoName": "airbnbconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/airbnbconnector",
-            "githubUrl": "https://github.com/airbnbconnector"
+            "githubUrl": "https://github.com/Avantio/airbnbconnector"
         },
         {
             "id": 61,
             "repoName": "smartchannelxmlchecker",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/smartchannelxmlchecker",
-            "githubUrl": "https://github.com/smartchannelxmlchecker"
+            "githubUrl": "https://github.com/Avantio/smartchannelxmlchecker"
         },
         {
             "id": 60,
             "repoName": "scriptsinternos",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/scriptsinternos",
-            "githubUrl": "https://github.com/scriptsinternos"
+            "githubUrl": "https://github.com/Avantio/scriptsinternos"
         },
         {
             "id": 59,
             "repoName": "scriptsmantenimiento",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/scriptsmantenimiento",
-            "githubUrl": "https://github.com/scriptsmantenimiento"
+            "githubUrl": "https://github.com/Avantio/scriptsmantenimiento"
         },
         {
             "id": 58,
             "repoName": "interhomeconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/interhomeconnector",
-            "githubUrl": "https://github.com/interhomeconnector"
+            "githubUrl": "https://github.com/Avantio/interhomeconnector"
         },
         {
             "id": 57,
             "repoName": "bookingconnector",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/bookingconnector",
-            "githubUrl": "https://github.com/bookingconnector"
+            "githubUrl": "https://github.com/Avantio/bookingconnector"
         },
         {
             "id": 56,
             "repoName": "resmanagersync",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/resmanagersync",
-            "githubUrl": "https://github.com/resmanagersync"
+            "githubUrl": "https://github.com/Avantio/resmanagersync"
         },
         {
             "id": 55,
             "repoName": "sistemareservasmuchosol",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/sistemareservasmuchosol",
-            "githubUrl": "https://github.com/sistemareservasmuchosol"
+            "githubUrl": "https://github.com/Avantio/sistemareservasmuchosol"
         },
         {
             "id": 37,
             "repoName": "formacion-git",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/formacion-git",
-            "githubUrl": "https://github.com/formacion-git"
+            "githubUrl": "https://github.com/Avantio/formacion-git"
         },
         {
             "id": 18,
             "repoName": "crs-migration-process",
             "gitlabUrl": "https://gitlab.avantio.com/avantio/crs-migration-process",
-            "githubUrl": "https://github.com/crs-migration-process"
+            "githubUrl": "https://github.com/Avantio/crs-migration-process"
         }
     ]
 }

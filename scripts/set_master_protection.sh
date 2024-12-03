@@ -21,37 +21,37 @@ for REPO in $REPOS; do
     REPO_NAME=$(echo "$REPO" | jq -r '.repoName')
     echo "Processing repository: $REPO_NAME"
 
-    # Step 1: Apply ruleset
-    echo "Applying ruleset to $REPO_NAME..."
-    curl -L \
-        -X POST \
-        -H "Accept: application/vnd.github+json" \
-        -H "Authorization: Bearer $GITHUB_TOKEN" \
-        -H "X-GitHub-Api-Version: 2022-11-28" \
-        "https://api.github.com/repos/Avantio/${REPO_NAME}/rulesets" \
-        -d '{
-            "name": "Protecting master",
-            "target": "branch",
-            "enforcement": "active",
-            "conditions": {
-                "ref_name": {
-                    "include": ["refs/heads/master"],
-                    "exclude": []
-                }
-            },
-            "rules": [
-                {
-                    "type": "pull_request",
-                    "parameters": {
-                        "required_approving_review_count": 1,
-                        "required_review_thread_resolution": true,
-                        "dismiss_stale_reviews_on_push": false,
-                        "require_code_owner_review": false,
-                        "require_last_push_approval": false
-                    }
-                }
-            ]
-        }'
+    # # Step 1: Apply ruleset
+    # echo "Applying ruleset to $REPO_NAME..."
+    # curl -L \
+    #     -X POST \
+    #     -H "Accept: application/vnd.github+json" \
+    #     -H "Authorization: Bearer $GITHUB_TOKEN" \
+    #     -H "X-GitHub-Api-Version: 2022-11-28" \
+    #     "https://api.github.com/repos/Avantio/${REPO_NAME}/rulesets" \
+    #     -d '{
+    #         "name": "Protecting master",
+    #         "target": "branch",
+    #         "enforcement": "active",
+    #         "conditions": {
+    #             "ref_name": {
+    #                 "include": ["refs/heads/master"],
+    #                 "exclude": []
+    #             }
+    #         },
+    #         "rules": [
+    #             {
+    #                 "type": "pull_request",
+    #                 "parameters": {
+    #                     "required_approving_review_count": 1,
+    #                     "required_review_thread_resolution": true,
+    #                     "dismiss_stale_reviews_on_push": false,
+    #                     "require_code_owner_review": false,
+    #                     "require_last_push_approval": false
+    #                 }
+    #             }
+    #         ]
+    #     }'
 
     # Step 2: Apply branch protection
     echo "Applying branch protection to $REPO_NAME..."
