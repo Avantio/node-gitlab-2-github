@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 
+docker build -t gitlab-migrator  . -f dockerfile.migration --no-cache
+
 set -o pipefail
 
 client_id="$1" # Client ID as first argument
 
 pem=$( cat $2 ) # file path of the private key as second argument
+
+MIRROR_REPOS="${5:-true}"
 
 now=$(date +%s)
 iat=$((${now} - 60)) # Issues 60 seconds in the past
@@ -49,6 +53,6 @@ docker run -e GITHUB_PAT="$TOKEN" \
            -e REPOS_FILENAME="$4" \
            -e USERS_MAP_FILENAME="users_map.json" \
            -e TEMPLATE_FILENAME="settings.template.ts" \
-           -e MIRROR_REPOS="$5" \
+           -e MIRROR_REPOS="$MIRROR_REPOS" \
            gitlab-migrator
 

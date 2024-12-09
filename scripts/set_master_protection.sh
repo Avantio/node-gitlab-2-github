@@ -21,39 +21,7 @@ for REPO in $REPOS; do
     REPO_NAME=$(echo "$REPO" | jq -r '.repoName')
     echo "Processing repository: $REPO_NAME"
 
-    # # Step 1: Apply ruleset
-    # echo "Applying ruleset to $REPO_NAME..."
-    # curl -L \
-    #     -X POST \
-    #     -H "Accept: application/vnd.github+json" \
-    #     -H "Authorization: Bearer $GITHUB_TOKEN" \
-    #     -H "X-GitHub-Api-Version: 2022-11-28" \
-    #     "https://api.github.com/repos/Avantio/${REPO_NAME}/rulesets" \
-    #     -d '{
-    #         "name": "Protecting master",
-    #         "target": "branch",
-    #         "enforcement": "active",
-    #         "conditions": {
-    #             "ref_name": {
-    #                 "include": ["refs/heads/master"],
-    #                 "exclude": []
-    #             }
-    #         },
-    #         "rules": [
-    #             {
-    #                 "type": "pull_request",
-    #                 "parameters": {
-    #                     "required_approving_review_count": 1,
-    #                     "required_review_thread_resolution": true,
-    #                     "dismiss_stale_reviews_on_push": false,
-    #                     "require_code_owner_review": false,
-    #                     "require_last_push_approval": false
-    #                 }
-    #             }
-    #         ]
-    #     }'
-
-    # Step 2: Apply branch protection
+    # Apply branch protection
     echo "Applying branch protection to $REPO_NAME..."
     curl -L \
         -X PUT \
@@ -67,11 +35,34 @@ for REPO in $REPOS; do
             "required_pull_request_reviews": {
                 "dismiss_stale_reviews": false,
                 "require_code_owner_reviews": false,
-                "required_approving_review_count": 1
-            },
-            "restrictions": null,
+                "required_approving_review_count": 1,
+                "bypass_pull_request_allowances": {
+                    "users":[],
+                    "teams":["master-users"],
+                    "apps":[]
+                    }
+                },
+            "restrictions": {
+                    "users":[],
+                    "teams":["master-users"],
+                    "apps":[]
+                    },
             "allow_force_pushes": false,
             "allow_deletions": false
+        }'
+
+    curl -L \
+        -X PATCH \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer $GITHUB_TOKEN" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "https://api.github.com/repos/Avantio/${REPO_NAME}/branches/master/protection/required_pull_request_reviews" \
+        -d '{
+            "bypass_pull_request_allowances":{
+            "users":[],
+            "teams":["master-users"],
+            "apps":[]
+            }
         }'
     echo "Done processing $REPO_NAME."
 done
